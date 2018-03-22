@@ -19,7 +19,8 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-cbvkc v,vbsvzx c;nzxc
-* ...
-dsjugbsdfjsdffbs zvbzb
+* Deploymsdbsajdbent instructions
+
+* ...mdbkdafasbouk  idaidac
+dsjugbsdfjsdffbs zvbzb dmfbdf
+mdjfvdfdfdf
